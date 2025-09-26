@@ -1,4 +1,5 @@
-![alt Outlook-Bmuktnws.jpg]
+![Outlook screenshot](Outlook-Bmuktnws.jpg)
+
 Dr. Cheryl A. Swanier is the Dean of the School of Science, Technology, Health, and Human
 Services and a Full Professor of Computer Science at Voorhees University. Formerly, she served
 as a Senior Teaching Faculty at the University of Massachusetts, Amherst. She has served in
