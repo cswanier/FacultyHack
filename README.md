@@ -1,4 +1,4 @@
-[![Outlook screenshot(https://github.com/cswanier/FacultyHack/blob/main/Outlook-bmuktnws.jpg)]
+[![Outlook screenshot](https://github.com/cswanier/FacultyHack/blob/main/Outlook-bmuktnws.jpg)]
 
 Dr. Cheryl A. Swanier is the Dean of the School of Science, Technology, Health, and Human
 Services and a Full Professor of Computer Science at Voorhees University. Formerly, she served
