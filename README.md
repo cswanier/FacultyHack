@@ -1,5 +1,5 @@
 <a href="https://github.com/cswanier/FacultyHack">
-  <img src="https://github.com/cswanier/FacultyHack/blob/main/Outlook-bmuktnws.jpg?raw=true" alt="Outlook screenshot" width="400"/>
+  <img src="https://github.com/cswanier/FacultyHack/blob/main/Outlook-bmuktnws.jpg?raw=true" alt="Outlook screenshot" width="200"/>
 </a>
 
 
